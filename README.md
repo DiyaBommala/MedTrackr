@@ -4,7 +4,7 @@
 Built with **Expo React Native**. All data stays **on device** (no cloud).  
 > Prototype for learning; **not a medical device**.
 
-**▶ Live demo (Snack):** https://snack.expo.dev/@YOURNAME/pillpilot   <!-- replace with your link -->
+**▶ Live demo (Snack):**https://snack.expo.dev/@debommala/pillpilot---adherencemvp
 
 [![Expo](https://img.shields.io/badge/Expo-React%20Native-black)]()
 [![Local Notifications](https://img.shields.io/badge/Local-Notifications-blue)]()
