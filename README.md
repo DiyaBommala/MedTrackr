@@ -3,7 +3,9 @@
 **Privacy-first medication reminders and dose logging with 7-day adherence analytics.**  
 Built with **Expo React Native**. All data stays **on device** (no cloud).  
 > Prototype for learning; **not a medical device**.
-
+**▶ Live demo (Snack):** https://snack.expo.dev/@debommala/medtrackr---adherencemvp
+>
+> 
 [![Expo](https://img.shields.io/badge/Expo-React%20Native-black)]()
 [![Notifications](https://img.shields.io/badge/Local-Notifications-blue)]()
 [![Privacy](https://img.shields.io/badge/Privacy-On%20device-green)]()
@@ -13,6 +15,13 @@ Built with **Expo React Native**. All data stays **on device** (no cloud).
 - **One-tap “Mark taken”** and automatic dose log
 - **7-day adherence %** (taken / scheduled)
 - **Local storage only** via AsyncStorage (no sign-in, no cloud)
+## 🧱 Tech
+- Expo React Native (Snack / Expo Go)
+- `expo-notifications` – daily local reminders
+- `@react-native-async-storage/async-storage` – on-device storage
+- `dayjs` – date/time handling
+- Platforms: iOS & Android (runs in Expo Go)
+
 
 ## 🚀 Run it
 **Option A — Snack (no installs)**
