@@ -1,4 +1,4 @@
-# PillPilot (Expo MVP)
+# MedTrackr (Expo MVP)
 
 **Privacy-first medication reminders and dose logging with 7-day adherence analytics.**  
 Built with **Expo React Native**. All data stays **on device** (no cloud).  
