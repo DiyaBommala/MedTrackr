@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "medtrackr---adherencemvp",
+    "slug": "snack-2fdfb9f5-bb3a-4301-bac9-473c842b942f",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": "No desSchedules local notifications for each med time, one-tap “Mark taken,” and on-device storage (no cloud). Shows weekly adherence %. Prototype for learning; not a medical device.cription"
+  }
+}
